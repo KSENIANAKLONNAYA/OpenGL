@@ -1,0 +1,3 @@
+/Users/ksenianaklonnaa/Downloads/KG/Graphics/lab12/build/CMakeFiles/OpenGLShapes.dir
+/Users/ksenianaklonnaa/Downloads/KG/Graphics/lab12/build/CMakeFiles/edit_cache.dir
+/Users/ksenianaklonnaa/Downloads/KG/Graphics/lab12/build/CMakeFiles/rebuild_cache.dir
